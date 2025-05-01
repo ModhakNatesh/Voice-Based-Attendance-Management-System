@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![VBAMS Logo](assets/rit_logo.png)
+![VBAMS Logo](assets/voicesync_icon.png)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
