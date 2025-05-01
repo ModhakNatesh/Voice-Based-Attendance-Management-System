@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database
+*.db
+*.db-*
+speaker_embeddings.pkl
+
+# Logs
+*.log
+attendance.log
+
+# Temporary files
+temp_samples/*.wav
+
+# Voice samples (consider if you want to ignore these)
+# Uncomment if you don't want to track voice samples
+# voice_samples/*.wav
+
+# QR codes (might contain sensitive info)
+qrcodes/*.png
+
+# VS Code directories
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Distribution
+dist/
+build/
+*.spec

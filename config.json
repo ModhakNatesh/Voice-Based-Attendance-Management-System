@@ -1,0 +1,14 @@
+{
+    "audio_folder": "voice_samples/",
+    "attendance_temp": "temp_samples/",
+    "attendance_db": "attendance.db",
+    "speaker_embeddings": "speaker_embeddings.pkl",
+    "default_similarity_threshold": 0.75,
+    "min_energy_threshold": 0.0003,
+    "min_voice_confidence": 0.60,
+    "admin_username": "admin",
+    "teacher_username": "teacher",
+    "debug_mode": false,
+    "temp_samples_retention_days": 1,
+    "attendance_records_retention_months": 6
+}

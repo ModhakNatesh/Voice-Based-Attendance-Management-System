@@ -1,0 +1,26 @@
+# Core GUI Framework
+PyQt5>=5.15.9
+
+# Audio Processing
+pyaudio>=0.2.13
+librosa>=0.10.1
+noisereduce>=2.0.1
+numpy>=1.24.3
+soundfile>=0.12.1
+
+# Voice Processing
+resemblyzer>=0.1.1
+
+# Database and Data Handling
+pandas>=2.0.3
+
+# Security
+bcrypt>=4.0.1
+pyotp>=2.9.0
+
+# QR Code Generation
+qrcode>=7.4.2
+pillow>=10.0.0  # Required by qrcode for image generation
+
+# Logging and Utils
+python-dotenv>=1.0.0
